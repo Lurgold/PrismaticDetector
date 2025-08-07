@@ -24,7 +24,7 @@ Here is a complete guide to install the program :
  
 - <ins> Install Microsoft Edge</ins> : If Microsoft Edge is not Pre-Installed on your PC, go to the [Microsoft Edge Official Download Page](https://www.microsoft.com/en-us/edge/download?msockid=17fcb1d34e2c675212a0a7ec4fd366d3&form=MA13FJ) and Download the Microsoft Edge Setup and launch the Setup and install. Make sure to also restart your computer !
 
-- <ins> Download PrismaticDetector</ins> : Go to the [PrismaticDetector Official Download Page](https.//wwwLienamettre.com) and Download the RELEASE File.
+- <ins> Download PrismaticDetector</ins> : Go to the [PrismaticDetector Official Download Page](https://github.com/Lurgold/PrismaticDetector/releases/tag/Release) and Download the RELEASE File.
 
 - <ins> Extraction</ins> : Right click on the .zip Archive and Extract it. Then, open the PrismaticDetector_v1.0.0-RELEASE Folder and launch "PrismaticDetector_v1.0.0_Win.exe". Follow the instructions on screen.
 
@@ -59,7 +59,7 @@ Voici un guide complet pour installer le programme :
 
 - <ins>Installer Python</ins> : Rendez-vous sur le [site officiel de Python](https://www.python.org/downloads/), téléchargez l’installeur, puis lancez-le et suivez les instructions d’installation.
 - <ins>Installer Microsoft Edge</ins> : Si Microsoft Edge n’est pas préinstallé sur votre PC, [téléchargez-le depuis le site officiel](https://www.microsoft.com/en-us/edge/download?form=MA13FJ), lancez l’installation, puis redémarrez votre ordinateur.
-- <ins>Télécharger PrismaticDetector</ins> : Accédez à la [page de téléchargement officielle de PrismaticDetector](https.//wwwLienamettre.com) et téléchargez la version RELEASE ou DEBUG.
+- <ins>Télécharger PrismaticDetector</ins> : Accédez à la [page de téléchargement officielle de PrismaticDetector](https://github.com/Lurgold/PrismaticDetector/releases/tag/Release) et téléchargez la version RELEASE ou DEBUG.
 - <ins>Extraction</ins> : Faites un clic droit sur l’archive `.zip` et choisissez “Extraire”. Ouvrez ensuite le dossier `PrismaticDetector_v1.0.0-RELEASE/DEBUG` et lancez le fichier `PrismaticDetector_v1.0.0_Win.exe`. Suivez les instructions à l’écran.
 - <ins>Lancement</ins> : Cliquez sur la barre de recherche en bas à gauche de l’écran, tapez “PrismaticDetector” et lancez le programme.
 
