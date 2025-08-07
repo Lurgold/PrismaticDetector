@@ -34,7 +34,7 @@ Here is a complete guide for using the program
 
 - <ins> Tracking</ins> : Finally, click on the "Monitoring" Tab and click "Start Monitoring" to start
 
----
+## French Translation
 
 <img width="3548" height="1336" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
 
