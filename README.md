@@ -3,4 +3,7 @@ Prismatic Detector is a __Free__ Python script that allows the user to Track the
 
 # 🗒️ Features
 Here are the main features of Prismatic Detector : 
-> Automatic updates : Never miss on the new - ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `#f03c15` and Gears with the frequent updates. The new updates are **automatically** installed when you start the Program !  
+> Automatic updates : Never miss on the new __Fruits__ and __Gears__ with the _frequent_ updates. The new updates are **automatically** installed when you start the Program !
+> Custom Traacking : Easily choose the items you want to track !
+> Translations : The program is only available in English and French.
+> Modern Interface : A clean and modern GUI for a pleasing experience.
