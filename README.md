@@ -39,7 +39,9 @@ Here is a complete guide for using the program
 
 # French Translation
 
-<img width="3548" height="1336" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
+<p align="center">
+  <img width="500" height="166" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
+</p>
 
 ## 🇫🇷 🌱 Prismatic Detector
 PrismaticDetector est un script Python **gratuit** qui permet à l’utilisateur de suivre les stocks du jeu [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
