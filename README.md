@@ -1,3 +1,5 @@
+<img width="3548" height="1336" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
+
 # 🇬🇧 🌱 Prisatic Detector
 PrismaticDetector is a __Free__ Python script that allows the user to Track the [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden) Stocks.
 
@@ -33,6 +35,8 @@ Here is a complete guide for using the program
 - <ins> Tracking</ins> : Finally, click on the "Monitoring" Tab and click "Start Monitoring" to start
 
 ---
+
+<img width="3548" height="1336" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
 
 # 🇫🇷 🌱 Prismatic Detector
 PrismaticDetector est un script Python **gratuit** qui permet à l’utilisateur de suivre les stocks du jeu [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
