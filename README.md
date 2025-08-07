@@ -1,4 +1,7 @@
-<img width="500" height="166" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
+<p align="center">
+  <img width="500" height="166" alt="Logo" src="[http://some_place.com/image.png](https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063)" />
+</p>
+
 
 ## 🇬🇧 🌱 Prisatic Detector
 PrismaticDetector is a __Free__ Python script that allows the user to Track the [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden) Stocks.
