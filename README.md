@@ -32,6 +32,8 @@ Here is a complete guide for using the program
 
 - <ins> Tracking</ins> : Finally, click on the "Monitoring" Tab and click "Start Monitoring" to start
 
+---
+
 # 🇫🇷 🌱 Prismatic Detector
 PrismaticDetector est un script Python **gratuit** qui permet à l’utilisateur de suivre les stocks du jeu [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
 
