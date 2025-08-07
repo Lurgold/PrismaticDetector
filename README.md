@@ -4,7 +4,7 @@
 
 
 ## 🇬🇧 🌱 Prisatic Detector
-PrismaticDetector is a __Free__ Python script that allows the user to Track the [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden) Stocks.
+PrismaticDetector is a __Free__ Program that allows the user to Track the [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden) Stocks.
 
 ## 🗒️ Features
 Here are the main features of Prismatic Detector : 
@@ -19,8 +19,6 @@ Here are the main features of Prismatic Detector :
 
 ## 🔌 Setup
 Here is a complete guide to install the program : 
-
-- <ins> Install Python</ins> : Go to the [Python Official Download Page](https://www.python.org/downloads/) and Download the Python Setup and launch the Setup and install.
  
 - <ins> Install Microsoft Edge</ins> : If Microsoft Edge is not Pre-Installed on your PC, go to the [Microsoft Edge Official Download Page](https://www.microsoft.com/en-us/edge/download?msockid=17fcb1d34e2c675212a0a7ec4fd366d3&form=MA13FJ) and Download the Microsoft Edge Setup and launch the Setup and install. Make sure to also restart your computer !
 
@@ -44,7 +42,7 @@ Here is a complete guide for using the program
 </p>
 
 ## 🇫🇷 🌱 Prismatic Detector
-PrismaticDetector est un script Python **gratuit** qui permet à l’utilisateur de suivre les stocks du jeu [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
+PrismaticDetector est un programe **gratuit** qui permet à l’utilisateur de suivre les stocks du jeu [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
 
 ## 🗒️ Fonctionnalités
 Voici les principales fonctionnalités de Prismatic Detector :
@@ -57,7 +55,6 @@ Voici les principales fonctionnalités de Prismatic Detector :
 ## 🔌 Installation
 Voici un guide complet pour installer le programme :
 
-- <ins>Installer Python</ins> : Rendez-vous sur le [site officiel de Python](https://www.python.org/downloads/), téléchargez l’installeur, puis lancez-le et suivez les instructions d’installation.
 - <ins>Installer Microsoft Edge</ins> : Si Microsoft Edge n’est pas préinstallé sur votre PC, [téléchargez-le depuis le site officiel](https://www.microsoft.com/en-us/edge/download?form=MA13FJ), lancez l’installation, puis redémarrez votre ordinateur.
 - <ins>Télécharger PrismaticDetector</ins> : Accédez à la [page de téléchargement officielle de PrismaticDetector](https://github.com/Lurgold/PrismaticDetector/releases/tag/Release) et téléchargez la version RELEASE ou DEBUG.
 - <ins>Extraction</ins> : Faites un clic droit sur l’archive `.zip` et choisissez “Extraire”. Ouvrez ensuite le dossier `PrismaticDetector_v1.0.0-RELEASE/DEBUG` et lancez le fichier `PrismaticDetector_v1.0.0_Win.exe`. Suivez les instructions à l’écran.
