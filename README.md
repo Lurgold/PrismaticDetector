@@ -24,7 +24,7 @@ Here is a complete guide to install the program :
  
 - <ins> Install Microsoft Edge</ins> : In Microsoft Edge is not Pre-Installed on your PC, go to the [Microsoft Edge Official Download Page](https://www.microsoft.com/en-us/edge/download?msockid=17fcb1d34e2c675212a0a7ec4fd366d3&form=MA13FJ) and Download the Microsoft Edge Setup and launch the Setup and install. Make sure to also restart your computer !
 
-- <ins> Download PrismaticDetector</ins> : In Microsoft Edge is not Pre-Installed on your PC, go to the [PrismaticDetector Official Download Page](https.//wwwLienamettre.com) and Download the REALEASE or DEBUG File.
+- <ins> Download PrismaticDetector</ins> : Go to the [PrismaticDetector Official Download Page](https.//wwwLienamettre.com) and Download the REALEASE or DEBUG File.
 
 - <ins> Extraction</ins> : Right click on the .zip Archive and Extract it. Then, open the PrismaticDetector_v1.0.0-RELEASE/DEBUG Folder and launch "PrismaticDetector_v1.0.0_Win.exe". Follow the instructions on screen.
 
