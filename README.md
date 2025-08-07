@@ -1,1 +1,1 @@
-# Prisatic Detector
+# Prisatic Detector 🌱
