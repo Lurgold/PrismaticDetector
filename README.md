@@ -22,11 +22,11 @@ Here is a complete guide to install the program :
 
 - <ins> Install Python</ins> : Go to the [Python Official Download Page](https://www.python.org/downloads/) and Download the Python Setup and launch the Setup and install.
  
-- <ins> Install Microsoft Edge</ins> : In Microsoft Edge is not Pre-Installed on your PC, go to the [Microsoft Edge Official Download Page](https://www.microsoft.com/en-us/edge/download?msockid=17fcb1d34e2c675212a0a7ec4fd366d3&form=MA13FJ) and Download the Microsoft Edge Setup and launch the Setup and install. Make sure to also restart your computer !
+- <ins> Install Microsoft Edge</ins> : If Microsoft Edge is not Pre-Installed on your PC, go to the [Microsoft Edge Official Download Page](https://www.microsoft.com/en-us/edge/download?msockid=17fcb1d34e2c675212a0a7ec4fd366d3&form=MA13FJ) and Download the Microsoft Edge Setup and launch the Setup and install. Make sure to also restart your computer !
 
-- <ins> Download PrismaticDetector</ins> : Go to the [PrismaticDetector Official Download Page](https.//wwwLienamettre.com) and Download the RELEASE or DEBUG File.
+- <ins> Download PrismaticDetector</ins> : Go to the [PrismaticDetector Official Download Page](https.//wwwLienamettre.com) and Download the RELEASE File.
 
-- <ins> Extraction</ins> : Right click on the .zip Archive and Extract it. Then, open the PrismaticDetector_v1.0.0-RELEASE/DEBUG Folder and launch "PrismaticDetector_v1.0.0_Win.exe". Follow the instructions on screen.
+- <ins> Extraction</ins> : Right click on the .zip Archive and Extract it. Then, open the PrismaticDetector_v1.0.0-RELEASE Folder and launch "PrismaticDetector_v1.0.0_Win.exe". Follow the instructions on screen.
 
 - <ins> Launching</ins> : Finally, click the search-bar on the bottom left of the screen and search "PrismaticDetector" and launch it.
 
