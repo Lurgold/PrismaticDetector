@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" height="166" alt="Logo" src="[[http://some_place.com/image.png](https://github.com/Lurgold/PrismaticDetector/blob/main/Ressources/Images/Logo/Logo.png)](https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063)" />
+  <img src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063)" />
 </p>
 
 
