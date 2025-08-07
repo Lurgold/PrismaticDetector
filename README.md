@@ -13,7 +13,7 @@ Here are the main features of Prismatic Detector :
 
 - <ins> Custom Traacking</ins> : Easily choose the items you want to track !
 
-- <ins> Translations</ins> : The program is only available in English and French at the momment
+- <ins> Translations</ins> : The program is only available in English and French at the moment
 
 - <ins> Modern Interface</ins> : A clean and modern GUI for a pleasing experience.
 
@@ -30,7 +30,7 @@ Here is a complete guide to install the program :
 
 - <ins> Launching</ins> : Finally, click the search-bar on the bottom left of the screen and search "PrismaticDetector" and launch it.
 
-## 🔨 Fnctionning
+## 🔨 Fnctioning
 Here is a complete guide for using the program
 
 - <ins> Selection</ins> : Select the Fruits/Gears you want to track.
