@@ -1,9 +1,9 @@
 <img width="1500" height="500" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
 
-# 🇬🇧 🌱 Prisatic Detector
+## 🇬🇧 🌱 Prisatic Detector
 PrismaticDetector is a __Free__ Python script that allows the user to Track the [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden) Stocks.
 
-# 🗒️ Features
+## 🗒️ Features
 Here are the main features of Prismatic Detector : 
 
 - <ins> Automatic updates</ins> : Never miss on the new __Fruits__ and __Gears__ with the _frequent_ updates. The new updates are **automatically** installed when you start the Program !
@@ -14,7 +14,7 @@ Here are the main features of Prismatic Detector :
 
 - <ins> Modern Interface</ins> : A clean and modern GUI for a pleasing experience.
 
-# 🔌 Setup
+## 🔌 Setup
 Here is a complete guide to install the program : 
 
 - <ins> Install Python</ins> : Go to the [Python Official Download Page](https://www.python.org/downloads/) and Download the Python Setup and launch the Setup and install.
@@ -27,21 +27,21 @@ Here is a complete guide to install the program :
 
 - <ins> Launching</ins> : Finally, click the search-bar on the bottom left of the screen and search "PrismaticDetector" and launch it.
 
-# 🔨 Fnctionning
+## 🔨 Fnctionning
 Here is a complete guide for using the program
 
 - <ins> Selection</ins> : Select the Fruits/Gears you want to track.
 
 - <ins> Tracking</ins> : Finally, click on the "Monitoring" Tab and click "Start Monitoring" to start
 
-## French Translation
+# French Translation
 
 <img width="3548" height="1336" alt="Logo" src="https://github.com/user-attachments/assets/ce4d209e-3358-4d5d-b245-b54768476063" />
 
-# 🇫🇷 🌱 Prismatic Detector
+## 🇫🇷 🌱 Prismatic Detector
 PrismaticDetector est un script Python **gratuit** qui permet à l’utilisateur de suivre les stocks du jeu [Grow a Garden](https://www.roblox.com/games/126884695634066/Grow-a-Garden).
 
-# 🗒️ Fonctionnalités
+## 🗒️ Fonctionnalités
 Voici les principales fonctionnalités de Prismatic Detector :
 
 - <ins>Mises à jour automatiques</ins> : Ne manquez jamais les nouveaux **fruits** et **objets** grâce aux mises à jour **fréquentes**. Les nouvelles versions sont installées **automatiquement** au lancement du programme !
@@ -49,7 +49,7 @@ Voici les principales fonctionnalités de Prismatic Detector :
 - <ins>Traductions</ins> : Le programme est actuellement disponible uniquement en anglais et en français.
 - <ins>Interface moderne</ins> : Une interface claire et moderne pour une expérience agréable.
 
-# 🔌 Installation
+## 🔌 Installation
 Voici un guide complet pour installer le programme :
 
 - <ins>Installer Python</ins> : Rendez-vous sur le [site officiel de Python](https://www.python.org/downloads/), téléchargez l’installeur, puis lancez-le et suivez les instructions d’installation.
@@ -58,7 +58,7 @@ Voici un guide complet pour installer le programme :
 - <ins>Extraction</ins> : Faites un clic droit sur l’archive `.zip` et choisissez “Extraire”. Ouvrez ensuite le dossier `PrismaticDetector_v1.0.0-RELEASE/DEBUG` et lancez le fichier `PrismaticDetector_v1.0.0_Win.exe`. Suivez les instructions à l’écran.
 - <ins>Lancement</ins> : Cliquez sur la barre de recherche en bas à gauche de l’écran, tapez “PrismaticDetector” et lancez le programme.
 
-# 🔨 Fonctionnement
+## 🔨 Fonctionnement
 Voici un guide pour utiliser le programme :
 
 - <ins>Sélection</ins> : Sélectionnez les fruits/objets que vous souhaitez suivre.
