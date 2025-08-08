@@ -28,7 +28,7 @@ Here is a complete guide to install the program :
 
 - <ins> Launching</ins> : Finally, click the search-bar on the bottom left of the screen and search "PrismaticDetector" and launch it.
 
-## 🔨 Fnctioning
+## 🔨 Fonctioning
 Here is a complete guide for using the program
 
 - <ins> Selection</ins> : Select the Fruits/Gears you want to track.
